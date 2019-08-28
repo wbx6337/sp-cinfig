@@ -31,10 +31,10 @@ management:
         include: hystrix.stream 
         
         
-    rabbitmq:
-      host: 192.168.161.131
-      port: 5672
-      username: admin
-      password: admin
+  rabbitmq:
+    host: 192.168.161.131
+    port: 5672
+    username: admin
+    password: admin
   
   
